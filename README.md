@@ -8,8 +8,7 @@ to separate the current course contents after cloning the repository as given be
 ![GitHub Platform | Workspace Split Recommendations](/img/course_github.png)
 
 **Note**: This is only a recommendation. If you are well acquainted with GitHub and feel comfortable
-forking, don't hesitate doing so. I've simply had situations where students spent ages debugging platform issues
-instead of focusing on the learning material, so this should help to avoid any possible merge conflicts. 
+forking, don't hesitate doing so. I've simply had situations where students spent ages debugging platform issues instead of focusing on the learning material, so this should help to avoid any possible merge conflicts. 
 
 # Setting up
 The setup instructions specified below apply for **Unix** (tested on various Ubuntu versions) or **MacOS**, though **Windows users** can follow  
