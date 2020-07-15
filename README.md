@@ -5,7 +5,7 @@ This repository contains the notebooks for the CA_AI_2020 course.
 As this repository and the notebooks within it will be updated constantly, it is recommended
 to separate the current course contents after cloning the repository as given below:
 
-![GitHub Platform | Workspace Split Recommendations](/img/course_github.png)
+![GitHub Platform | Workspace Split Recommendations](/github.png)
 
 **Note**: This is only a recommendation. If you are well acquainted with GitHub and feel comfortable
 forking, don't hesitate doing so. I've simply had situations where students spent ages debugging platform issues instead of focusing on the learning material, so this should help to avoid any possible merge conflicts. 
